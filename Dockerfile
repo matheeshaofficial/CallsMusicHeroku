@@ -10,7 +10,7 @@ RUN cd / && \
     git clone https://github.com/matheeshaofficial/CallsMusic smp && \
     cd smp/ && \
     rm -r .git && \
-    git clone https://github.com/inukaasith/pytgcalls && \
+    git clone https://github.com/ImJanindu/Mizuki-Music-Play && \
     cd pytgcalls/ && \
     rm -r .git && \
     npm install && \
